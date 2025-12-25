@@ -8,12 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
+    "autoprefixer": "^10.4.23",
     "next": "16.1.1",
+    "postcss": "^8.5.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4"
+    "@tailwindcss/postcss": "^4.1.18",
+    "tailwindcss": "^3.4.19"
   }
 }
